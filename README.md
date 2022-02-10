@@ -1,4 +1,4 @@
-# Projeto 01 - Landing Page
+# Projeto 00 - Landing Page
 
 <p align="center">
   Preview
